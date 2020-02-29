@@ -7,9 +7,11 @@
 
 ## How To Use
 
-Clone and run it on visual studio project or built it from commandline with dotnet build.
+Clone and run it on visual studio project or built it from terminal with dotnet build.
 
-Then you can simply put it to your dll files. 
+Then you can simply move debug/release dll into your project references.
+
+Maybe in the future I will make nuget package of it, but at this moment it is the only way, you can use it.
 
 Plist files have three different types : 
 * Auto
