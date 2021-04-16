@@ -1,5 +1,5 @@
 <h1 align="center">
-  Plist Sharper - Plist files native parser, written in plain C#
+  Info.Plist Sharper - Plist files native parser, written in plain C#
 </h1>
 
 <h4 align="center">A simple and powerful parser for .plist files<a href="http://electron.atom.io" target="_blank"></a>.</h4>
